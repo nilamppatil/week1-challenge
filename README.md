@@ -1,6 +1,10 @@
 # Module 1 challange
 
-## Your Task
+## deployment link
+https://github.com/nilamppatil/week1-challenge
+
+## Repository link
+https://github.com/nilamppatil/week1-challenge
  
 **Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
 
